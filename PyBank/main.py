@@ -1,6 +1,6 @@
 # Dependencies
 import csv
-import os
+
 
 # Files to load and output (update with correct file paths)
 budget_file = r'C:\Users\eek_e\Documents\Data A\Starter_Code\PyBank\Resources\budget_data.csv'  # Input file path #
