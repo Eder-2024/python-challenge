@@ -88,25 +88,4 @@ with open(file_to_output, "w") as txt_file:
     txt_file.write((f"\n"))
     txt_file.write("--------------------------------------------------------")
 
-    # Print the total vote count (to terminal)
-
-
-    # Write the total vote count to the text file
-
-
-    # Loop through the candidates to determine vote percentages and identify the winner
-
-
-        # Get the vote count and calculate the percentage
-
-
-        # Update the winning candidate if this one has more votes
-
-
-        # Print and save each candidate's vote count and percentage
-
-
-    # Generate and print the winning candidate summary
-
-
-    # Save the winning candidate summary to the text file
+   
