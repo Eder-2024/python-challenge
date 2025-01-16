@@ -3,7 +3,7 @@
 
 # Import necessary modules
 import csv
-import os
+
 
 # Files to load and output (update with correct file paths)
 file_to_load = r'C:\Users\eek_e\Documents\Data A\Starter_Code\PyPoll\Resources\election_data.csv'  # Input file path
